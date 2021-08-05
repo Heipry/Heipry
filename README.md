@@ -3,8 +3,9 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heipry)](http://javierdiaz.com.es/)
 
-Profesional, a medias con estudios reglados a medias autodidacta dedicado a la creación de paginas web
+Profesional, a medias con estudios reglados a medias autodidacta dedicado a la creación de paginas web.
 También administrador de sistemas informáticos y versado en labores de relaciones públicas.
+
 Podría seguir pero prefiero contártelo en persona.
 
 ![](http://javierdiaz.com.es/assets/images/sign.png)
