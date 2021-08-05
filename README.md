@@ -1,5 +1,8 @@
 ## Sobre mi
 
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Heipry)](http://javierdiaz.com.es/)
+
 Profesional, a medias con estudios reglados a medias autodidacta dedicado a la creación de paginas web
 También administrador de sistemas informáticos y versado en labores de relaciones públicas.
 Podría seguir pero prefiero contártelo en persona.
@@ -19,5 +22,8 @@ Empecé estudiando Bachillerato tecnológico, después comencé la carrera de In
 *   Experiencia en atención al cliente
 *   Conocimientos de programación en lenguajes como JavaScript, PHP o Java
 *   Experiencia en gestión de sistemas infórmaticos
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heipry&show_icons=true&theme=radical)](http://javierdiaz.com.es/)
 
 
