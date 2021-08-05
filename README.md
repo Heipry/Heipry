@@ -1,19 +1,23 @@
-### Hi there 👋
+## Sobre mi
 
-<!--
-**Heipry/Heipry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Profesional, a medias con estudios reglados a medias autodidacta dedicado a la creación de paginas web
+También administrador de sistemas informáticos y versado en labores de relaciones públicas.
+Podría seguir pero prefiero contártelo en persona.
 
-Here are some ideas to get you started:
+![](http://javierdiaz.com.es/assets/images/sign.png)
+### Aspiraciones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Me gustaría encontrar un trabajo en una empresa dinámica de Tecnologías de la Información, ya sea desarrollando y manteniendo aplicaciones web o bien administrando sistemas informáticos
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Heipry)](https://github.com/ryo-ma/github-profile-trophy)
+### ¿ Que he hecho ?
+
+Empecé estudiando Bachillerato tecnológico, después comencé la carrera de Ingeniería Informática, aunque lamentablemente no la acabé, tuve que esperar hasta 2019 para conseguir un título que acredite lo que se: Técnico superior en Desarrollo de Aplicaciones Web. Empecé mi carrera profesional en una carpintería, donde fui ascendiendo hasta tener a mi cargo un equipo de más de 10 personas, allí pasé al departamento de informática donde mis funciones iban desde mejorar la imagen de marca hasta administrar la red de la oficina o maquetar e implementar una nueva web. Después de esto me establecí por mi cuenta como autónomo alternando un servicio de creación de páginas web con mi propia tienda virtual con productos de carpintería de aluminio y mi último trabajo fue como desarrollador web en una agencia digital. Actualmente me dedico a Dev Ops, manejando y actualizando una e-shop basada en Prestashop.
+
+*   Amplios conocimientos HTML5, CSS3 JavaScript, PHP y gestión de SEO
+*   Gestión de RRSS, CMS (WordPress, PrestaShop,...) y marketing digital
+*   Gestión de plantillas de personal
+*   Experiencia en atención al cliente
+*   Conocimientos de programación en lenguajes como JavaScript, PHP o Java
+*   Experiencia en gestión de sistemas infórmaticos
+
 
