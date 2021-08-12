@@ -1,10 +1,10 @@
 ## Sobre mi
 
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](http://javierdiaz.com.es/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)]https://twitter.com/heipry)
+
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/javier-diaz-garrido/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/jadigar)
-
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/heipry)
+[![Web Badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://javierdiaz.com.es/)
 
 Profesional, a medias con estudios reglados a medias autodidacta dedicado a la creación de paginas web.
 También administrador de sistemas informáticos y versado en labores de relaciones públicas.
