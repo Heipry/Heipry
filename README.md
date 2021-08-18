@@ -14,7 +14,7 @@ Podría seguir pero prefiero contártelo en persona.
 ![](http://javierdiaz.com.es/assets/images/sign.png)
 ### Aspiraciones
 
-Me gustaría encontrar un trabajo en una empresa dinámica de Tecnologías de la Información, ya sea desarrollando y manteniendo aplicaciones web o bien administrando sistemas informáticos
+Me gustaría encontrar un trabajo en una empresa dinámica de Tecnologías de la Información, ya sea desarrollando y manteniendo aplicaciones web o bien administrando sistemas informáticos.
 
 ### ¿ Que he hecho ?
 
