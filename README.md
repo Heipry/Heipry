@@ -31,6 +31,5 @@ Actualmente estoy dirigiendo el desarrollo de proyectos web en la empresa en la 
 *   Experiencia en gestión de sistemas infórmaticos
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Heipry&show_icons=true&theme=radical)](http://javierdiaz.com.es/)
 
 
