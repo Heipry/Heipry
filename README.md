@@ -34,4 +34,5 @@ Actualmente estoy dirigiendo el desarrollo de proyectos web en la empresa en la 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=heipry.heipry)
 
+<img src="https://komarev.com/ghpvc/?username=heipry&color=brightgreen" alt="watching_count" />
 
