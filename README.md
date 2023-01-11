@@ -32,5 +32,6 @@ Actualmente estoy dirigiendo el desarrollo de proyectos web en la empresa en la 
 
 
 
-<img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=heipry&repo=heipry&countColorcountColor&countColor=%237B1E7B"/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=heipry.heipry)
+
 
