@@ -31,5 +31,6 @@ Actualmente estoy dirigiendo el desarrollo de proyectos web en la empresa en la 
 *   Experiencia en gestión de sistemas infórmaticos
 
 <img src="https://komarev.com/ghpvc/?username=heipry&color=brightgreen" alt="watching_count" />
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=heipry.heipry)
 
