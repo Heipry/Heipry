@@ -34,3 +34,4 @@ Sigo ligado a la personalización de PrestaShop aunque también desarrollamos co
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=heipry.heipry)
 
+<a href="https://www.buymeacoffee.com/heipry" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
