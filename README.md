@@ -9,7 +9,7 @@
 Profesional dedicado a la gestión y creación de proyectos web
 También administrador de eCommerce y desarrollador PHP especializado en PrestaShop.
 
-Podría seguir pero prefiero contártelo en persona.
+Podría seguir pero prefiero contártelo en persona...
 
 ![](http://javierdiaz.com.es/assets/images/sign.png)
 ### Aspiraciones
