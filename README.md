@@ -21,7 +21,7 @@ Me siento comodo en la gestión de proyectos web, ya sea desarrollando sites óp
 Como siempre me gustó la informática pronto me di cuenta de cuál era mi camino. Una cosa llevó a la otra y completé un ciclo formativo de grado superior en Desarrollo de Aplicaciones Web, conseguí el título de técnico superior y de administrador de servicios de internet y desde entonces no he parado de formarme. Ahora estoy estudiando otro ciclo de grado superior, esta vez el de Desarrollo de Aplicaciones Multiplataforma.
 He trabajado como desarrollador web en una agencia digital donde me especialicé en la programación PHP. Después estuve más de tres años como director de tecnología de una empresa con un eCommerce multicanal basado en PrestaShop.
 Actualmente estoy dirigiendo el desarrollo de proyectos web en la empresa en la que trabajo
-Sigo ligado a la personalización de PrestaShop aunque también desarrollamos con WordPress y otros CMSs y me he acostumbrado a las bondades del teletrabajo.
+Sigo ligado a la personalización de PrestaShop, aunque también desarrollamos con WordPress y otros CMSs y me he acostumbrado a las bondades del teletrabajo.
 
 *   Amplios conocimientos HTML5, CSS3 JavaScript, PHP y gestión de SEO
 *   Gestión de RRSS, CMS (WordPress, PrestaShop,...) y marketing digital
