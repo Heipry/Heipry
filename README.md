@@ -6,32 +6,34 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/heipry)
 [![Web Badge](https://img.shields.io/website-up-down-green-red/http/monip.org.svg)](http://javierdiaz.com.es/)
 
-Profesional dedicado a la gestión y creación de proyectos web
+Apasionado por compartir conocimientos en el ámbito IT
 También administrador de eCommerce y desarrollador PHP especializado en PrestaShop.
 
 Podría seguir pero prefiero contártelo en persona...
 
 ![](http://javierdiaz.com.es/assets/images/sign.png)
-### Aspiraciones
 
-Me siento comodo en la gestión de proyectos web, ya sea desarrollando sites óptimizados desde cero, actualizándolos para el día a día, o gestionando el mantenimiento continuo para maximizar ventas u otros objetivos.
+### Hoy en día
 
-### ¿ De dónde vengo ?
+Especializado en gestión y desarrollo web, fusiono mi sólida experiencia con mi pasión por la docencia para formar a la próxima generación de profesionales. Tras más de una década en el sector, he desarrollado una metodología práctica y adaptativa que va más allá de la teoría.
+Como docente en programas de eLearning y reskilling, mi objetivo es dotar a los alumnos de habilidades directamente aplicables al mercado digital. Mi formación se centra en el desarrollo web (HTML, CSS, JavaScript, PHP) y el diseño UX/UI, asegurando que los estudiantes no solo sepan codificar, sino que también comprendan cómo crear productos digitales usables y eficientes.
+Mi bagaje en gestión de proyectos me permite aportar una visión integral del sector, preparando a los alumnos con las herramientas y la mentalidad necesarias para tener éxito en cualquier equipo o proyecto.
 
-Empecé mi carrera profesional en la oficina de una pequeña empresa de cerramientos donde fui ascendiendo hasta tener a mi cargo un equipo de más de 10 personas. Como siempre me gustó la informática ya en este puesto me di cuenta de cuál era mi camino.
+### ¿De dónde vengo?
 
-Salí de allí para montar mi propio eCommerce de cerramientos. Una cosa llevó a la otra y, aún en paralelo con mi pequeña tienda, empecé a ofrecer mis habilidades de creación y gestión de webs a clientes y proveedores. Éste fue un giro importante para mi carrera que me obligo a reciclarme. Completé un ciclo formativo de grado superior en Desarrollo de Aplicaciones Web, conseguí el título de técnico superior y de administrador de servicios de internet y desde entonces no he parado de formarme. Ahora estoy estudiando otro ciclo de grado superior, esta vez el de Desarrollo de Aplicaciones Multiplataforma.
+Mi trayectoria profesional es el motor de mi enfoque pedagógico. Comencé desarrollando habilidades de liderazgo y gestión en el sector comercial. Posteriormente, mi paso por el emprendimiento al lanzar y gestionar mi propio eCommerce me proporcionó una visión integral del lado de negocio. 
+Esta experiencia me llevó a una reorientación profesional, formándome en desarrollo web y trabajando como desarrollador y, más tarde, como director de tecnología. 
+Hoy, mi experiencia como gestor de proyectos IT me permite preparar a mis alumnos no solo con habilidades técnicas, sino también con la mentalidad y las herramientas necesarias para triunfar en un entorno de trabajo real. 
+Mi camino me ha enseñado a valorar la aplicación práctica por encima de la teoría, algo que transmito en cada una de mis formaciones.
 
-Posteriormente he trabajado como desarrollador web en una agencia digital donde me especialicé en la programación PHP. Después estuve más de tres años como director de tecnología de una empresa con un eCommerce multicanal basado en PrestaShop, esta fue una oportunidad única para aprender sobre la personalización y desarrollo de este CMS y sobre la venta en marketplaces como Amazon.
+Actualmente sigo dirigiendo el desarrollo de proyectos web, sigo ligado a la personalización de PrestaShop aunque también desarrollo con WordPress y otros CMSs y me he acostumbrado a las bondades del teletrabajo.
 
-Actualmente estoy dirigiendo el desarrollo de proyectos web en la empresa en la que trabajo, sigo ligado a la personalización de PrestaShop aunque también desarrollamos con WordPress y otros CMSs y me he acostumbrado a las bondades del teletrabajo.
-
-*   Experiencia en gestión de proyectos web y administración de tiendas online
+*   Experiencia como gestor de proyectos formativos y tutorización web
 *   Conocimientos de programación en lenguajes como JavaScript, PHP o Java
 *   Desarrollo y personalización de CMSs (WordPress, PrestaShop,...)
 *   Amplios conocimientos de desarrollo web: HTML5, CSS3, JavaScript, PHP
-*   Gestión de plantillas de personal
-*   Experiencia en atención al cliente
+*   Gestión de equipos en proyectos formativos y tecnológicos
+*   Experiencia en atención al cliente y formación personalizada
 
 [Ver CV de Javier Diaz](https://javierdiaz.com.es/)
 
